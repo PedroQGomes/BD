@@ -1,0 +1,3 @@
+# MIEI - 3ºAno - Bases de Dados
+
+O trabalho pratico consiste no desenvolvimento de uma base de dados  de um clínica de testes de atletas de desportos coletivos e de atletismo. Para isso em primeiro lugar é realizado o levantamento de requisitos, de seguida é formulado o modelo conceptual, depois é realizado o modelo lógico e por fim é feita a implementação física. O trabalho pratico consiste em duas fases em que na primeira fase a base de dados é relacional e na segunda fase a base de dados é **NoSQL**. Para a primeira fase é usada a base dados relacional **MySQL** e numa segunda fase para a base de dados **NoSQL** é usado **MongoDB**.
